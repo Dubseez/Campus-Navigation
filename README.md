@@ -1,1 +1,1 @@
-# Campus-Navigation
+The Indoor Campus Navigation System is a project designed to assist users in navigating large campus buildings using real-time digital maps. By integrating Google Maps APIs and Street View, the system provides step-by-step guidance within indoor environments. The interface is user-friendly, offering features like floor-wise navigation, accessible routes, and customized paths for specific destinations.
